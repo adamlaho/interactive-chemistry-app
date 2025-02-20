@@ -1,0 +1,10 @@
+name: my-streamlit-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - rdkit
+  - streamlit
+  - py3Dmol
+  - pandas
+  - pip
